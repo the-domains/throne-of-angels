@@ -1,0 +1,28 @@
+name: Throne of Angels
+favicon: null
+layout_spectrum: 0.0003931312821805477
+typography_spectrum: 0.10647813673131168
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.759338246891275
+  lightness: 0.6251409810502082
+  saturation: 0.4349441803060472
+  rhythmicContrast: 0.07750242715701461
+purpose: []
