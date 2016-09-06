@@ -1,19 +1,4 @@
-name: Throne of Angels
-favicon: null
-layout_spectrum: 0.0003931312821805477
 typography_spectrum: 0.10647813673131168
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#ADD7F6'
@@ -25,4 +10,27 @@ color:
   lightness: 0.6251409810502082
   saturation: 0.4349441803060472
   rhythmicContrast: 0.07750242715701461
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.0003931312821805477
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+author:
+  name: Derek Osborne
+  email: derek@derekosborne.com
+  url: www.throneofangels.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/5c3d743c-e867-48ac-87ec-551a92dc490c.jpg
+name: Throne of Angels
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/2a20eec8-24ef-4fe4-b9a1-943df475e176.jpg
+title: A World in Miniature
 purpose: []
